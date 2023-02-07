@@ -151,7 +151,7 @@ zipValidator("1000"); // false
 zipValidator(999); // false
 zipValidator(1000); // true
 zipValidator(9999); // true
-zipValidator(10000); // true
+zipValidator(10000); // false
 ```
 
 </div>
