@@ -16,7 +16,7 @@ _Basics · Functional Programming_
 
 <footer>
 
-2022 · Zurich · Team Talks · Stefan Huber
+2023 · Zurich · Team Talks · Stefan Huber
 
 </footer>
 
