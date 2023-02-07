@@ -1,4 +1,4 @@
-# JavaScript currying
+# Currying in JavaScript 
 
 [Show Slides](https://signalwerk.github.io/talk.js.currying/)
 
